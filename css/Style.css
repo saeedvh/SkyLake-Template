@@ -226,14 +226,14 @@ div.BtnLogIn{
         color: #00fff7b9;
     }
 
-    @media screen and (min-width: 300px){
+    @media screen and (min-width: 320px){
         div.FormLogIn{
-            width: 200px;
-            height: 400px;
+            width: 250px;
+            height: 600px;
         }
         div.Form{
-            width: 200px;
-            height: 500px;
+            width: 300px;
+            height: 900px;
         }
       
     }
